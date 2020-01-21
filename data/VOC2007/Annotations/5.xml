@@ -12,375 +12,579 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>191</xmin>
-			<ymin>26</ymin>
-			<xmax>252</xmax>
-			<ymax>82</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>417</xmin>
-			<ymin>22</ymin>
-			<xmax>478</xmax>
-			<ymax>78</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>555</xmin>
-			<ymin>23</ymin>
-			<xmax>616</xmax>
-			<ymax>79</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>624</xmin>
-			<ymin>26</ymin>
-			<xmax>685</xmax>
-			<ymax>82</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>74</ymin>
-			<xmax>319</xmax>
-			<ymax>108</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>187</xmin>
-			<ymin>72</ymin>
-			<xmax>246</xmax>
-			<ymax>106</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>94</xmin>
-			<ymin>27</ymin>
-			<xmax>167</xmax>
-			<ymax>74</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>326</xmin>
-			<ymin>76</ymin>
-			<xmax>401</xmax>
-			<ymax>110</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>410</xmin>
-			<ymin>74</ymin>
-			<xmax>485</xmax>
-			<ymax>108</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>484</xmin>
-			<ymin>78</ymin>
-			<xmax>559</xmax>
-			<ymax>112</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>553</xmin>
-			<ymin>76</ymin>
-			<xmax>618</xmax>
-			<ymax>114</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>625</xmin>
-			<ymin>74</ymin>
-			<xmax>690</xmax>
-			<ymax>112</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>129</xmin>
-			<ymin>166</ymin>
-			<xmax>281</xmax>
-			<ymax>227</ymax>
+			<ymin>173</ymin>
+			<xmax>163</xmax>
+			<ymax>319</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>268</xmin>
-			<ymin>164</ymin>
-			<xmax>414</xmax>
-			<ymax>228</ymax>
+			<xmin>160</xmin>
+			<ymin>175</ymin>
+			<xmax>194</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>401</xmin>
-			<ymin>164</ymin>
-			<xmax>547</xmax>
-			<ymax>228</ymax>
+			<xmin>191</xmin>
+			<ymin>171</ymin>
+			<xmax>225</xmax>
+			<ymax>317</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>540</xmin>
+			<xmin>226</xmin>
+			<ymin>173</ymin>
+			<xmax>260</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>171</ymin>
+			<xmax>293</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>170</ymin>
+			<xmax>326</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>170</ymin>
+			<xmax>362</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
 			<ymin>169</ymin>
-			<xmax>694</xmax>
-			<ymax>230</ymax>
+			<xmax>399</xmax>
+			<ymax>315</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
-			<ymin>267</ymin>
-			<xmax>291</xmax>
-			<ymax>332</ymax>
+			<xmin>400</xmin>
+			<ymin>175</ymin>
+			<xmax>434</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>272</xmin>
-			<ymin>265</ymin>
-			<xmax>417</xmax>
-			<ymax>330</ymax>
+			<xmin>431</xmin>
+			<ymin>173</ymin>
+			<xmax>465</xmax>
+			<ymax>319</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>413</xmin>
-			<ymin>268</ymin>
-			<xmax>549</xmax>
-			<ymax>335</ymax>
+			<xmin>467</xmin>
+			<ymin>172</ymin>
+			<xmax>501</xmax>
+			<ymax>318</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>544</xmin>
-			<ymin>266</ymin>
-			<xmax>680</xmax>
-			<ymax>333</ymax>
+			<xmin>501</xmin>
+			<ymin>175</ymin>
+			<xmax>535</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>148</xmin>
-			<ymin>353</ymin>
-			<xmax>284</xmax>
-			<ymax>420</ymax>
+			<xmin>536</xmin>
+			<ymin>179</ymin>
+			<xmax>570</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>276</xmin>
-			<ymin>352</ymin>
-			<xmax>412</xmax>
-			<ymax>419</ymax>
+			<xmin>571</xmin>
+			<ymin>177</ymin>
+			<xmax>605</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>409</xmin>
-			<ymin>350</ymin>
-			<xmax>529</xmax>
-			<ymax>413</ymax>
+			<xmin>606</xmin>
+			<ymin>177</ymin>
+			<xmax>640</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>526</xmin>
-			<ymin>364</ymin>
-			<xmax>661</xmax>
-			<ymax>413</ymax>
+			<xmin>636</xmin>
+			<ymin>174</ymin>
+			<xmax>670</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>436</ymin>
-			<xmax>294</xmax>
-			<ymax>498</ymax>
+			<xmin>670</xmin>
+			<ymin>174</ymin>
+			<xmax>704</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>287</xmin>
-			<ymin>440</ymin>
-			<xmax>416</xmax>
-			<ymax>493</ymax>
+			<xmin>706</xmin>
+			<ymin>183</ymin>
+			<xmax>737</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>413</xmin>
+			<xmin>733</xmin>
+			<ymin>182</ymin>
+			<xmax>764</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>179</ymin>
+			<xmax>788</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>393</ymin>
+			<xmax>32</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>394</ymin>
+			<xmax>56</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>395</ymin>
+			<xmax>87</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>418</ymin>
+			<xmax>121</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>417</ymin>
+			<xmax>153</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>372</ymin>
+			<xmax>358</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>373</ymin>
+			<xmax>390</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>369</ymin>
+			<xmax>424</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>371</ymin>
+			<xmax>455</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>373</ymin>
+			<xmax>493</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>394</ymin>
+			<xmax>556</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>377</ymin>
+			<xmax>595</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>376</ymin>
+			<xmax>627</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>377</ymin>
+			<xmax>665</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>380</ymin>
+			<xmax>711</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>374</ymin>
+			<xmax>752</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>368</ymin>
+			<xmax>791</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>203</ymin>
+			<xmax>58</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>118</ymin>
+			<xmax>96</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>119</ymin>
+			<xmax>119</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>230</ymin>
+			<xmax>96</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>231</ymin>
+			<xmax>130</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
 			<ymin>434</ymin>
-			<xmax>539</xmax>
-			<ymax>493</ymax>
+			<xmax>187</xmax>
+			<ymax>524</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>can</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>532</xmin>
-			<ymin>436</ymin>
-			<xmax>658</xmax>
-			<ymax>495</ymax>
+			<xmin>188</xmin>
+			<ymin>438</ymin>
+			<xmax>222</xmax>
+			<ymax>528</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>can</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
-			<ymin>502</ymin>
-			<xmax>295</xmax>
-			<ymax>554</ymax>
+			<xmin>219</xmin>
+			<ymin>439</ymin>
+			<xmax>253</xmax>
+			<ymax>529</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>can</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>289</xmin>
-			<ymin>500</ymin>
-			<xmax>415</xmax>
-			<ymax>552</ymax>
+			<xmin>255</xmin>
+			<ymin>421</ymin>
+			<xmax>289</xmax>
+			<ymax>537</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>product</name>
+		<name>can</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>402</xmin>
-			<ymin>494</ymin>
-			<xmax>528</xmax>
-			<ymax>546</ymax>
+			<xmin>290</xmin>
+			<ymin>421</ymin>
+			<xmax>324</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>440</ymin>
+			<xmax>523</xmax>
+			<ymax>535</ymax>
 		</bndbox>
 	</object>
 </annotation>
