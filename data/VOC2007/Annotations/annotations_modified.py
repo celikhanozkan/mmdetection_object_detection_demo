@@ -17,10 +17,10 @@ for i in range(90):
     for member in root.findall("object"):
         temp = np.random.rand()
         if temp <= 0.5:
-            member[0].text = 'urun1'
+            member[0].text = 'urun'
             classes_names.append(member[0].text)
         else:
-            member[0].text = 'urun2'
+            member[0].text = 'urun'
             classes_names.append(member[0].text)
     tree.write(xml_file)    
 classes_names = list(set(classes_names))
