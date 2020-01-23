@@ -14,14 +14,17 @@ for i in range(90):
     xml_file = '{}.xml'.format(i)
     tree = ET.parse(xml_file)
     root = tree.getroot()
+    cnt = 0
     for member in root.findall("object"):
-        temp = np.random.rand()
-        if temp <= 0.5:
-            member[0].text = 'urun'
+        
+        if cnt == 0 :
+            member[0].text = 'urun2'
             classes_names.append(member[0].text)
         else:
             member[0].text = 'urun'
             classes_names.append(member[0].text)
+        
+        cnt+=1
     tree.write(xml_file)    
 classes_names = list(set(classes_names))
 classes_names.sort()
